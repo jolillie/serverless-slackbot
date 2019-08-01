@@ -8,12 +8,12 @@ Adapted from https://github.com/johnagan/serverless-slackbot 📣
 
 # App in Action
 
-CloudApp link
+**CloudApp link:**
 
 https://cl.ly/2fc360b0d5bb
 
 
-CloudApp video
+**CloudApp video:**
 
 Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/FFT8JjVsvNrG4YoyBpj_8A?name=Slack_App_Concept_Screen_Recording.mov) 
 
@@ -24,7 +24,7 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 *How*: Via Slack slash commands
 
 
-**Proposed app name:***
+**Proposed app name:**
 
 *FoxFinder*
 
@@ -40,13 +40,13 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 
 
 
-**Slash commands:***
+**Slash commands:**
 
 1. */FoxFinder* + (keyword) -- longform
 2. */ff *+ (keyword) -- shorthand
 
 
-**Sample actions which can be included:***
+**Sample actions which can be included:**
 
 1. Filing an Outage Ticket (example only, not advised)
 2. Account Requests (sample action that could be taken in app)
