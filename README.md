@@ -8,14 +8,9 @@ Adapted from https://github.com/johnagan/serverless-slackbot 📣
 
 # App in Action
 
-**CloudApp link:**
+**CloudApp video link:**
 
 https://cl.ly/2fc360b0d5bb
-
-
-**CloudApp video:**
-
-Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/FFT8JjVsvNrG4YoyBpj_8A?name=Slack_App_Concept_Screen_Recording.mov) 
 
 
 # POC
