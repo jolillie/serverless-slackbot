@@ -12,7 +12,7 @@ Adapted from https://github.com/johnagan/serverless-slackbot 📣
 https://cl.ly/2fc360b0d5bb
 
 
-# Proof of Concept
+# Proof of Concept - FoxFinder
 ![](screengrab_a.gif)
 
 **What:** To create a *quick and efficient way* for Editorial to access the Product-Support *knowledge-base stored in Quip*. 
