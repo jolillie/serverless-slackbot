@@ -25,6 +25,7 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 **How**: Via Slack slash commands
 
 
+
 **Proposed app name:**
 
 *FoxFinder*
@@ -33,7 +34,7 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 [Image: Screen Shot 2019-03-22 at 12.30.13 PM.png]
 
 
-**Desired Functionality:***
+**Desired Functionality:**
 
 1. User should type a variation of Slack slash command + (keyword).
 2. Bot should respond with pretext and Quip URL. 
