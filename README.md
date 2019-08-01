@@ -20,8 +20,6 @@ Each custom script will run in it's own Lambda process, which is triggered by an
 5. Update the [scripts.json](scripts.json) file to include your script
 6. Deploy :boom:
 
-## Usage
-Docs coming soon. [Check out the example](scripts/index.js) for now
 
-## [Bot API](src/bot.js)
-Docs coming soon...
+
+

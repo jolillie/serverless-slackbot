@@ -1,26 +1,25 @@
 'use strict'
 /**
- * Sample Script
+ * Test Script
  */
+var json = require('./answers.json');
 module.exports = bot => {
 
   // responds to any slash command
   bot.on('slash_command', payload => {
-    let payloadMsg = '```' + JSON.stringify(payload, null, 4) + '```'
 
     bot.reply(payload, {
-      text: payloadMsg
+      text: " "
+    })
+  })
+
+  // responds to keyword in a text
+  bot.hears(/ /, (payload, bot, match) => {
+
+    bot.reply(payload, {
+      text: JSON.stringify(json)
     })
   })
 
 
-  // responds to "johnagan" in a text
-  bot.hears(/johnagan/, (payload, bot, match) => {
-    let payloadMsg = '```' + JSON.stringify(payload, null, 4) + '```'
 
-    bot.reply(payload, {
-      text: payloadMsg
-    })
-  })
-
-}
