@@ -18,6 +18,8 @@ https://cl.ly/2fc360b0d5bb
 Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/FFT8JjVsvNrG4YoyBpj_8A?name=Slack_App_Concept_Screen_Recording.mov) 
 
 
+# POC
+
 ![](screengrab_A.gif)
 
 *What:* To create a *quick and efficient way* for Editorial to access the Product-Support *knowledge-base stored in Quip*. 
