@@ -44,8 +44,8 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 
 **Slash commands:**
 
-1. */FoxFinder* + (keyword) -- longform
-2. */ff *+ (keyword) -- shorthand
+1. /FoxFinder + (keyword) -- longform
+2. /ff+ (keyword) -- shorthand
 
 
 **Sample actions which can be included:**
