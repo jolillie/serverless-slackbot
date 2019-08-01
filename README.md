@@ -19,7 +19,6 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 
 
 # POC
-
 ![](screengrab_A.gif)
 
 *What:* To create a *quick and efficient way* for Editorial to access the Product-Support *knowledge-base stored in Quip*. 
