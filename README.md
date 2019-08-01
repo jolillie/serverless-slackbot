@@ -19,6 +19,12 @@ https://cl.ly/2fc360b0d5bb
 **What:** To create a *quick and efficient way* for Editorial to access the Product-Support *knowledge-base stored in Quip*. 
 **How**: Via Slack slash commands
 
+**Desired Functionality:**
+
+1. User should type a variation of Slack slash command + (keyword).
+2. Bot should respond with pretext and Quip URL. 
+3. When user clicks Quip URL, link should open up in browser.
+
 ___
 
 **Proposed app name:**
@@ -28,14 +34,6 @@ ___
 *Logo and color code to be determined
 
 ![](screengrab_b.png)
-
-
-**Desired Functionality:**
-
-1. User should type a variation of Slack slash command + (keyword).
-2. Bot should respond with pretext and Quip URL. 
-3. When user clicks Quip URL, link should open up in browser.  
-
 
 
 **Slash commands:**
