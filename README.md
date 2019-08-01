@@ -31,7 +31,7 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 *FoxFinder*
 
 *Logo and color code to be determined
-[Image: Screen Shot 2019-03-22 at 12.30.13 PM.png]
+
 
 
 **Desired Functionality:**
