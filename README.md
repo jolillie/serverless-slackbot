@@ -19,7 +19,7 @@ https://cl.ly/2fc360b0d5bb
 **What:** To create a *quick and efficient way* for Editorial to access the Product-Support *knowledge-base stored in Quip*. 
 **How**: Via Slack slash commands
 
-
+___
 
 **Proposed app name:**
 
@@ -27,7 +27,7 @@ https://cl.ly/2fc360b0d5bb
 
 *Logo and color code to be determined
 
-![](screengrab_b.gif)
+![](screengrab_b.png)
 
 
 **Desired Functionality:**
@@ -43,10 +43,10 @@ https://cl.ly/2fc360b0d5bb
 1. /FoxFinder + (keyword) -- longform
 2. /ff+ (keyword) -- shorthand
 
-![](screengrab_c.gif)
+![](screengrab_c.png)
 
-![](screengrab_d.gif)
-![](screengrab_e.gif)
+![](screengrab_d.png)
+![](screengrab_e.png)
 
 
 **Sample actions which can be included:**
@@ -54,16 +54,16 @@ https://cl.ly/2fc360b0d5bb
 1. Filing an Outage Ticket (example only, not advised)
 2. Account Requests (sample action that could be taken in app)
 
-![](screengrab_f.gif)
-![](screengrab_g.gif)
-![](screengrab_h.gif)
+![](screengrab_f.png)
+![](screengrab_g.png)
+![](screengrab_h.png)
 
 **Sample Frontend:**
 
-![](screengrab_i.gif)
-![](screengrab_j.gif)
+![](screengrab_i.png)
+![](screengrab_j.png)
 
-![](screengrab_k.gif)
+![](screengrab_k.png)
 
 
 ✌️
