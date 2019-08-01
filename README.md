@@ -35,7 +35,7 @@ ___
 
 ![](screengrab_b.png)
 
-__
+____
 **Slash commands:**
 
 1. /FoxFinder + (keyword) -- longform
@@ -46,7 +46,7 @@ __
 ![](screengrab_d.png)
 ![](screengrab_e.png)
 
-__
+___
 **Sample actions which can be included:**
 
 1. Filing an Outage Ticket (example only, not advised)
@@ -56,7 +56,7 @@ __
 ![](screengrab_g.png)
 ![](screengrab_h.png)
 
-__
+___
 **Sample Frontend:**
 
 ![](screengrab_i.png)
