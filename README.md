@@ -8,8 +8,6 @@ Adapted from https://github.com/johnagan/serverless-slackbot 📣
 
 # App in Action
 
-**Note: *Working code for testing purposes though needs more development.***
-
 CloudApp link
 
 https://cl.ly/2fc360b0d5bb
@@ -26,7 +24,7 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 *How*: Via Slack slash commands
 
 
-*Proposed App Name: *
+**Proposed app name:***
 
 *FoxFinder*
 
@@ -34,7 +32,7 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 [Image: Screen Shot 2019-03-22 at 12.30.13 PM.png]
 
 
-*Desired Functionality*
+**Desired Functionality:***
 
 1. User should type a variation of Slack slash command + (keyword).
 2. Bot should respond with pretext and Quip URL. 
@@ -42,13 +40,13 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 
 
 
-*Slash Commands*
+**Slash commands:***
 
 1. */FoxFinder* + (keyword) -- longform
 2. */ff *+ (keyword) -- shorthand
 
 
-*Sample Actions which can be completed within Slack can include:*
+**Sample actions which can be included:***
 
 1. Filing an Outage Ticket (example only, not advised)
 2. Account Requests (sample action that could be taken in app)
