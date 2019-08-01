@@ -19,7 +19,7 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 
 
 # POC
-![](screengrab_A.gif)
+![](screengrab_a.gif)
 
 **What:** To create a *quick and efficient way* for Editorial to access the Product-Support *knowledge-base stored in Quip*. 
 **How**: Via Slack slash commands
@@ -32,6 +32,7 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 
 *Logo and color code to be determined
 
+![](screengrab_b.gif)
 
 
 **Desired Functionality:**
@@ -47,11 +48,30 @@ Slack_App_Concept_Screen_Recording.mov (https://fox.quip.com/-/blob/HSOAAAZMdrc/
 1. /FoxFinder + (keyword) -- longform
 2. /ff+ (keyword) -- shorthand
 
+![](screengrab_c.gif)
+
+![](screengrab_d.gif)
+![](screengrab_e.gif)
+
 
 **Sample actions which can be included:**
 
 1. Filing an Outage Ticket (example only, not advised)
 2. Account Requests (sample action that could be taken in app)
+
+![](screengrab_f.gif)
+![](screengrab_g.gif)
+![](screengrab_h.gif)
+
+**Sample Frontend:**
+
+![](screengrab_i.gif)
+![](screengrab_j.gif)
+
+![](screengrab_k.gif)
+
+
+✌️
 
 
 
