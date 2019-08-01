@@ -28,7 +28,7 @@ ___
 
 **Proposed app name:**
 
-*FoxFinder*
+**FoxFinder**
 
 *Logo and color code to be determined
 
