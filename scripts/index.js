@@ -1,6 +1,6 @@
 'use strict'
 /**
- * Test Script
+ * Test Script, not all my code. Needs to be expanded upon.
  */
 var json = require('./answers.json');
 module.exports = bot => {
