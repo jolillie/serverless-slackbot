@@ -7,9 +7,17 @@ Adapted from https://github.com/johnagan/serverless-slackbot 📣
 
 # App in Action
 
-**CloudApp video link:**
+**CloudApp video links:**
+
+**from this**
 
 https://cl.ly/2fc360b0d5bb
+
+**to this**
+
+https://cl.ly/e99b9229043a
+
+![](screen_recording.gif)
 
 
 # Proof of Concept - FoxFinder
