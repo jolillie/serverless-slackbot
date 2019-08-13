@@ -47,13 +47,6 @@ ___
 ![](screengrab_h.png)
 
 ___
-**Sample Frontend:**
-
-![](screengrab_i.png)
-![](screengrab_j.png)
-
-![](screengrab_k.png)
-
 
 ✌️
 
