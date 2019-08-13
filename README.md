@@ -4,16 +4,7 @@ Slack App Proof of Concept (POC) presented and accepted by my Product Management
 
 Adapted from https://github.com/johnagan/serverless-slackbot 📣
 
-
 # App in Action
-
-**CloudApp video links:**
-
-**from this**
-
-https://cl.ly/2fc360b0d5bb
-
-**to this**
 
 https://cl.ly/e99b9229043a
 
@@ -21,7 +12,6 @@ https://cl.ly/e99b9229043a
 
 
 # Proof of Concept - FoxFinder
-![](screengrab_a.gif)
 
 **What:** To create a *quick and efficient way* for Editorial to access the Product-Support *knowledge-base stored in Quip*. 
 **How**: Via Slack slash commands
