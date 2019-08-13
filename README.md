@@ -24,11 +24,6 @@ https://cl.ly/e99b9229043a
 
 ___
 
-**Proposed app name:**
-
-**FoxFinder**
-
-*Logo and color code to be determined
 
 ![](screengrab_b.png)
 
