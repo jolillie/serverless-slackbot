@@ -31,7 +31,7 @@ ____
 **Slash commands:**
 
 1. /FoxFinder + (keyword) -- longform
-2. /ff+ (keyword) -- shorthand
+2. /ff + (keyword) -- shorthand
 
 ![](screengrab_d.png)
 ![](screengrab_e.png)
