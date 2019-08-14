@@ -39,8 +39,8 @@ ____
 ___
 **Sample actions which can be included:**
 
-1. Filing an Outage Ticket (example only, not advised)
-2. Account Requests (sample action that could be taken in app)
+1. Filing an Outage Ticket 
+2. Account Requests 
 
 ![](screengrab_f.png)
 ![](screengrab_g.png)
