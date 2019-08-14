@@ -1,7 +1,9 @@
+// Author: John Agan (user:johnagan)
+// Github: https://github.com/johnagan/serverless-slackbot
+// I'm building ontop of this
+
 'use strict'
-/**
- * Test script, not all my code. Needs to be expanded upon.
- */
+
 var json = require('./answers.json');
 module.exports = bot => {
 
