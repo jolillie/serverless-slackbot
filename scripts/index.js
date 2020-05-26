@@ -1,6 +1,6 @@
 // Author: John Agan (user:johnagan)
 // Github: https://github.com/johnagan/serverless-slackbot
-// I'm building ontop of this
+// Sample script
 
 'use strict'
 
