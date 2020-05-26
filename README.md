@@ -14,6 +14,7 @@ https://cl.ly/e99b9229043a
 # Proof of Concept - FoxFinder
 
 **What:** To create a *quick and efficient way* for Editorial to access the Product-Support *knowledge-base stored in Quip*. 
+
 **How**: Via Slack slash commands
 
 **Desired Functionality:**
